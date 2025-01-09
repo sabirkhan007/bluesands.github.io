@@ -486,7 +486,7 @@ img {
   line-height: 64px;
   position: fixed;
   bottom: 105%;
-  right: 30px;
+  right: 15px;
   font-size: 40px;
   z-index: 99;
   color: #ffffff;
@@ -496,7 +496,7 @@ img {
 }
 
 .scroll-top.open {
-  bottom: 50px;
+  bottom: 85px;
 }
 
 .scroll-top span{
@@ -7650,7 +7650,7 @@ tr:nth-child(even) {
 
 
 .footer-share-kmy {
-background:#fff;
+/* background:#fff; */
 position:fixed;
 left:0;
 width:100%;
